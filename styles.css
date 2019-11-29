@@ -1,0 +1,64 @@
+body {
+	width: 70%;
+	height: 70%;
+	padding: 0px;
+	margin: 0px;
+	margin-left: 20em;
+	margin-right: 20em;
+	background-image: url(claudio-schwarz-purzlbaum-yUSLlcOkJnk-unsplash.jpg);
+	background-size: cover;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+
+#menu li {
+	display: inline;
+	list-style: none;
+	padding: 0;
+}
+
+#menu li a {
+	border: 1px solid gray;
+	padding: 15px 20px 15px 20px;
+	text-decoration: none;
+	color:black;
+	margin-left: -5px;
+	background-position: left;
+	background-color: #91cfcb;
+}
+
+#menu li a:hover {
+	color: blue;
+	background-position: left;
+}
+
+.header {
+  	padding:0px;
+  	margin:0px;
+  	text-align: center;
+  	background: #1abc9c;
+  	color: white;
+  	font-size: 30px;
+}
+
+.main {
+	padding:100px;
+	margin:20px;
+	margin-left: 0em;
+	height: 19em;
+	font-size: 30px;
+	font-weight: bold;
+	color: black;
+	text-align: center;
+}
+
+.footer {
+	padding: 60px;
+	background-color: #E0FFFF;
+}
+
+p {
+	background-color: white;
+}
